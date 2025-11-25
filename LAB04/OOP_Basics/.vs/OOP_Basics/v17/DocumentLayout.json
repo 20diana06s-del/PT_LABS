@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\REPOS\\PT_LABS\\LAB04\\OOP_Basics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AD0965-4E2E-4AED-A71A-3E62FB6F9CE1}|OOP_Basics.csproj|d:\\repos\\pt_labs\\lab04\\oop_basics\\gprogression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2AD0965-4E2E-4AED-A71A-3E62FB6F9CE1}|OOP_Basics.csproj|solutionrelative:gprogression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AD0965-4E2E-4AED-A71A-3E62FB6F9CE1}|OOP_Basics.csproj|d:\\repos\\pt_labs\\lab04\\oop_basics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2AD0965-4E2E-4AED-A71A-3E62FB6F9CE1}|OOP_Basics.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GProgression.cs",
+              "DocumentMoniker": "D:\\REPOS\\PT_LABS\\LAB04\\OOP_Basics\\GProgression.cs",
+              "RelativeDocumentMoniker": "GProgression.cs",
+              "ToolTip": "D:\\REPOS\\PT_LABS\\LAB04\\OOP_Basics\\GProgression.cs",
+              "RelativeToolTip": "GProgression.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T14:54:28.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\REPOS\\PT_LABS\\LAB04\\OOP_Basics\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\REPOS\\PT_LABS\\LAB04\\OOP_Basics\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T14:52:52.753Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
